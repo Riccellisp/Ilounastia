@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    background-image: url(../Parallax/background_.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+#transparente {
+    color: transparent;
+}
+
+
+
+.img-parallax {
+    position: fixed;
+    width: 100%;
+    height: 1000px;
+}
+
+#layer_1 {
+    background-image: url(../Parallax/rock_1.png);
+    background-repeat: no-repeat;
+    margin-left: 0px;
+    margin-top: 200px;
+}
+
+#layer_2 {
+    background-image: url(../Parallax/owl_1.png);
+    background-repeat: no-repeat;
+    margin-left: 600px;
+    margin-top: 400px;
+}
+
+#layer_3 {
+    background-image: url(../Parallax/rock_2.png);
+    background-repeat: no-repeat;
+    margin-left: 700px;
+    margin-top: 10px;
+}
+
+#layer_4 {
+    background-image: url(../Parallax/rock_3.png);
+    background-repeat: no-repeat;
+    margin-left: -120px;
+    margin-top: 400px;
+}

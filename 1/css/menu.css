@@ -1,0 +1,35 @@
+nav {
+    background-color: RGBA(0, 0, 0, 0.9);
+}
+
+nav li:first-child, nav li:nth-child(2), nav li:nth-child(3), nav li:nth-child(4),
+nav li:nth-child(5), nav li:nth-child(6) {
+    background-image: url(../img/bg_menu_teste1_190x50.png);
+}
+
+nav ul {
+    position: fixed;
+    float: left;
+    margin: 5px;
+    padding: 1px;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    padding: 10px;
+    font-family: 'Permanent Marker', cursive;
+    display: block;
+    color: black;
+    width: 170px;
+    margin-bottom: 1px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+nav li a:hover {
+    background-color: RGBA(217, 0, 217, 0.5);
+}

@@ -1,0 +1,25 @@
+footer {
+    
+}
+
+.footer_main {
+    border-top: 1px solid;
+    clear: both;
+    padding: 30px;
+}
+
+.midia_social li {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+p_footer {
+    float: right;
+    font-family: sans-serif;
+}
+
+.nome_form {
+    float: left;
+    clear: both;
+}

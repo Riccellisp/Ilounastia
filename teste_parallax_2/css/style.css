@@ -1,0 +1,199 @@
+/*.header_fixed_100 {
+    background-image: url(img/ilou_top1.png);
+    height: 75px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-color: blueviolet;
+    border: 2px;
+}*/
+
+header {
+    height: 0px;
+    background-image: url(../img/ilou_top1.pn);
+    background-attachment: fixed;
+}
+
+body {
+    /*font-size: 20px;*/
+    color: aliceblue;
+    width: 100%;
+    margin: 0 auto;
+    /*background-image: url(../img/ilounastia_lerembeca1_1400x860.png);*/
+    background-image: url(../img/bg_teste_capaLivro_1400x860.png);*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+main {
+    font-family: 'Permanent Marker', cursive;
+    background-color: RGBA(0, 0, 0, 0.8);
+    width: 70%;
+    margin: 0 auto;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+    border-left: 1px solid;
+    border-top: 1px solid;
+}
+
+.inicio_h1 {
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.inicio_p1 {
+    text-indent: 2em;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.principal {
+    width: 630px;
+    margin: 0 auto;
+    height: 300px;
+    padding: 10px;
+    /*background-color: aqua;*/
+}
+
+.principal: after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.janela_cor1 {
+    /*background-color: blue;*/
+    float: left;
+    width: 320px;
+    padding: 2px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.janela_cor2 {
+    /*background-color: blueviolet;*/
+    float: left;
+    width: 280px;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.p_janela {
+    margin: 0;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+.img_capa {
+    border: 2px solid;
+    margin: 0 auto;
+}
+
+/*.inicio_p2 {
+    width: 50%;
+    /*border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+
+.inicio_p3 {
+    width: 50%;
+    float: right;
+    /*border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+}*/
+
+.sinopse_h1 {
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    clear: both;
+}
+
+.sinopse_p {
+    text-indent: 2em;
+    margin-left: 150px;
+}
+
+.img_sinopse {
+    float: right;
+    border: 2px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 25px;
+}
+
+.sobre_a_obra_h1 {
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    clear: both;
+}
+
+.sobre_a_obra_p1, .sobre_a_obra_p3 {
+    text-indent: 2em;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.sobre_a_obra_p2 {
+    text-align: center;
+}
+
+.parag_trilogia {
+    text-indent: 1em;
+}
+
+.sobre_o_autor_h1 {
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    clear: both;
+}
+
+.sobre_o_autor_p {
+    margin-left: 150px;
+    border: 5px;
+    text-indent: 2em;
+}
+
+.img_autor {
+    float: right;
+    border: 2px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 25px;
+}
+
+.contato_h1 {
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    clear: both;
+}
+
+
